@@ -3,7 +3,7 @@
 
 ### Eddie Rangel
 Assoc. Professor  
-Information Technology  
+Software Engineering 
 
 ## Contact Information
 
@@ -69,4 +69,3 @@ Week | Topics | Reading | Assignments
 
 ### Read the material for the week before class
 ### This syllabus is TENTATIVE and subject to change
-### Log into Canvas for course announcments and updates
