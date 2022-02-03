@@ -29,6 +29,10 @@ on its hardware. This unique language is referred to as its Instruction Set Arch
 
 This is how we can view a computers language, its ISA. In order to provide a more readable and writable set of instructions for the various types of computer architecture there exist different types of computer languages that have a history that spans decades, maybe even centuries. These languages evolve over time in order to add functionality and features along with fixing or resolving any issues that may have previously existed. 
 
+Machine Language: Binary
+Assembly Language: Machine Dependent
+High-level Language: Human Readable and Writeble
+
 
 ## What is a Program?
 A program is a set or collection of statements or instructions that a computing device processes so that it can perform as designed. 
@@ -37,6 +41,24 @@ A program is a set or collection of statements or instructions that a computing 
 
 
 ## Software Development Lifecycle
+
+Phase I: 
+Analysis, Design, and Write
+
+Phase II: 
+Preprocess
+
+Phase III: 
+Compile
+
+Phase IV: 
+Link
+
+Phase V: 
+Load
+
+Phase VI: 
+Execute
 
 
 ## Object Oriented Programming
