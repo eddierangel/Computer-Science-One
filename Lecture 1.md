@@ -7,13 +7,20 @@
 
 
 ## Computer Organization
-Input: Keyboard Mouse Scanner Webcam
-Output: Monitor Projector Printer
-Central Processing Unit: 
+
+Input: 
+Keyboard Mouse Scanner Webcam
+
+Output: 
+Monitor Projector Printer
+
+Central Processing Unit (CPU) 
 ALU - Arithmetic Logic Unit
 CU - Control Unit
-Storage - Volatile Memory
-Storage - Non-Volatile Memory
+
+Storage
+Volatile Memory: Random Access Memory
+Non-Volatile Memory: Hard disc drives 
 
 
 ## Programming as a Language
