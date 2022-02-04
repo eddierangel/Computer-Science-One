@@ -1,4 +1,6 @@
-// Eddie Rangel
+// Developer: Eddie Rangel
+// File name: hello.go
+// Description: Displays greeting
 // Copyright (c) 2022
 
 package main

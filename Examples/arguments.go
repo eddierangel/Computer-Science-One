@@ -1,7 +1,9 @@
-package main
-
+// Developer: Eddie Rangel
 // File name: arguments.go
 // Description: Displays command line arguments
+// Copyright (c) 2022
+
+package main
 
 import (
 	"fmt"
