@@ -20,6 +20,12 @@ Monitor Projector Printer
 Processors are also known as Central Processing Units or CPU for short. A CPU actually consists of multiple components, the Arithmetic Logic Unit (ALU) and the Control Unit (CU). In modern computing, there are two type of processors, the Complex Instruction Set Computers (CISC) and  Reduced Instruction Set Computers (RISC) Processors.
 
 
+There are two types of storage that modern computers contain, volatile and non-volatile memory. Volatile memory requires an electrical charge to keep and hold the data within its storage areas. A computers RAM is a type of volatile memory. We understand that if we do not save our work and our computer restarts we lose the contents of the work that was not saved. 
+
+Memory locations are represented as hexadecimal values. The lowest memory location on a 32-bit computer is 0x00000000 and its highest location is 0xFFFFFFFF. 
+
+That working data exists within the computers volatile memory. 
+
 Storage
 Volatile Memory: Random Access Memory
 Non-Volatile Memory: Hard disc drives 
