@@ -58,7 +58,7 @@ The main entry point of a program is typically a fucntion we define as main.
 ## Software Development Lifecycle
 
 Phase I: 
-The initial steps that a programmer take are analysis, design, and the write code.
+The initial steps that a programmer takes are analysis, design, and then they have enough context to begin to write code.
 
 Phase II: 
 Preprocess
