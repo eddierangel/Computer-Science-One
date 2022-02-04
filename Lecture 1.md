@@ -41,6 +41,8 @@ A programmer is a person whose primary responsiblity is to develop a program bas
 
 An example of a simple program is calculator whose primary responsiblity would bet to carry out mathmatical tasks and calculations. A word processor program would be an example of a complex program whose feature set include formating text and inserting images into an electronic document. 
 
+The main entry point of a program is typically a fucntion we define as main. 
+
 
 
 ## Software Development Lifecycle
