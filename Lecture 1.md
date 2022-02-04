@@ -8,19 +8,23 @@
 
 ## Computer Organization
 
+A computer is a collection of several types of electonric devices. When we think of what a computer is we may envision a laptop or desktop of one of the major computer manufactures. A computer is more complex the most folks initially realize. A computer consists of devices that provide input and output capaiblities as well as the ability to store its electronic products suchs as documents and music files. 
+
 Input: 
 Keyboard Mouse Scanner Webcam
 
 Output: 
 Monitor Projector Printer
 
-Central Processing Unit (CPU) 
-ALU - Arithmetic Logic Unit
-CU - Control Unit
+
+Processors are also known as Central Processing Units or CPU for short. A CPU actually consists of multiple components, the Arithmetic Logic Unit (ALU) and the Control Unit (CU). In modern computing, there are two type of processors, the Complex Instruction Set Computers (CISC) and  Reduced Instruction Set Computers (RISC) Processors.
+
 
 Storage
 Volatile Memory: Random Access Memory
 Non-Volatile Memory: Hard disc drives 
+
+
 
 
 ## Programming Languages
