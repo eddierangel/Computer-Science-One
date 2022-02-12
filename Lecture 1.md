@@ -8,7 +8,7 @@
 
 ## Computer Organization
 
-A computer is a collection of several types of electonric devices. When we think of what a computer is we may envision a laptop or desktop of one of the major computer manufactures. A computer is more complex the most folks initially realize. A computer consists of devices that provide input and output capaiblities as well as the ability to store its electronic products suchs as documents and music files. 
+A computer is a collection of several types of electonric devices. When we think of what a computer we may envision a laptop or desktop of one of the major computer manufactures. A computer is more complex the most folks initially realize. A computer consists of devices that provide input and output capaiblities as well as the ability to store its electronic products suchs as documents and music files. 
 
 Input: 
 Keyboard Mouse Scanner Webcam
@@ -74,6 +74,10 @@ Load
 
 Phase VI: 
 Execute
+
+# Build and Run Go
+
+go run filename.go 
 
 
 ## Object Oriented Programming
